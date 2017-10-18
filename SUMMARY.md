@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Something about HTTP](chapter1.md)
+
